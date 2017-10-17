@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  sampleLocalization
+
+  Created by Nitin Bhatia on 16/10/17.
+  Copyright © 2017 Nitin Bhatia. All rights reserved.
+*/
+"BOOK_DETAIL" = "Sometimes, the greatest adventures in life are internal. This work represents such an adventure. It's a journey through the unseen dimensions of mind and spirit. I can attest to the reality of the events described herein. They are not fictional. The journey isn't new. It's been the quest of millions of persons for thousands of years. But, like the uniqueness of one's fingerprints or DNA, each life story is unique.I began the quest as a youth, by borrowing from the scientific method and generating a few hypotheses. It was soon discovered, however, that the investigation would need to extend beyond that approach. After some time, the \"unseen\" realm occasionally manifested itself in the physical world, as if a level of reason was operating. In the years following, I began working in emergency services and witnessed many chance events of tragedy, including the deaths of friends and family. What part, if any, did reason have in these things? Could there be meaning in the probabilities of what appeared to be mindless suffering?";
+
+/* Constant for dynamic alert screen */
+"ALERT_TITLE" = "Are you sure to buy?";
+"ALERT_MESSAGE" = "You have to pay $5 for this tour";
+"ALERT_CANCEL_TITLE" = "Cancel";
+"ALERT_BUY_TITLE" = "Buy";

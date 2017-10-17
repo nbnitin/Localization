@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  sampleLocalization
+
+  Created by Nitin Bhatia on 16/10/17.
+  Copyright © 2017 Nitin Bhatia. All rights reserved.
+*/
+"BOOK_DETAIL" = "Parfois, les plus grandes aventures de la vie sont internes. Ce travail représente une telle aventure. C'est un voyage à travers les dimensions invisibles de l'esprit et de l'esprit. Je peux attester la réalité des événements décrits ici. Ils ne sont pas fictifs. Le voyage n'est pas nouveau. C'est la quête de millions de personnes depuis des milliers d'années. Mais, comme l'unicité des empreintes digitales ou de l'ADN, chaque histoire de vie est unique.J'ai commencé la quête en tant que jeune, en empruntant à la méthode scientifique et en générant quelques hypothèses. Il a été bientôt découvert, cependant, que l'enquête devrait aller au-delà de cette approche. Après un certain temps, le domaine \"invisible\" se manifestait parfois dans le monde physique, comme si un niveau de raison était en train de fonctionner. Dans les années qui ont suivi, j'ai commencé à travailler dans les services d'urgence et j'ai été témoin de nombreux événements tragiques, y compris la mort d'amis et de membres de ma famille. Quelle partie, le cas échéant, a fait la raison dans ces choses? Pourrait-il y avoir un sens dans les probabilités de ce qui semblait être la souffrance aveugle?";
+
+/* Constant for dynamic alert screen */
+"ALERT_TITLE" = "Êtes-vous sûr d'acheter?";
+"ALERT_MESSAGE" = "Vous devez payer 5 $ pour cette tournée";
+"ALERT_CANCEL_TITLE" = "Annuler";
+"ALERT_BUY_TITLE" = "Acheter";
